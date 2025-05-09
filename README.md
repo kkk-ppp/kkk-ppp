@@ -48,7 +48,7 @@
 ### 🏴‍☠️ TryHackMe & HackTheBox
 
 #### TryHackMe
-<img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png" alt="TryHackMe Stats" height="150px"/>
+<img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" alt="TryHackMe Stats" height="100px"/>
 
 #### Hack The Box  
 <img src="https://academy.hackthebox.com/storage/badges/philomath.png" alt="Hack The Box" height="150px"/>
