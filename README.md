@@ -45,6 +45,7 @@
 ### 🏴‍☠️ TryHackMe & HackTheBox
 
 #### TryHackMe
+<p align="center">
 <img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" alt="TryHackMe Stats" height="70px"/>
 <img src="https://assets.tryhackme.com/img/badges/securityawareness.svg" alt="TryHackMe Stats" height="70px"/>
 <img src="https://assets.tryhackme.com/img/badges/burpsuite.svg" alt="TryHackMe Stats" height="70px"/>
@@ -52,6 +53,7 @@
 <img src="https://assets.tryhackme.com/img/badges/metasploit.svg" alt="TryHackMe Stats" height="70px"/>
 <img src="https://assets.tryhackme.com/img/badges/introtooffensivesecurity.svg" alt="TryHackMe Stats" height="70px"/>
 <img src="https://assets.tryhackme.com/img/badges/introtosecurityengineering.svg" alt="TryHackMe Stats" height="70px"/>
+</p>
 
 #### Hack The Box  
 <img src="https://academy.hackthebox.com/storage/badges/philomath.png" alt="Hack The Box" height="70px"/>
