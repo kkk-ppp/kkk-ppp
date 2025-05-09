@@ -1,4 +1,4 @@
-<h1 align="center">💀 Welcome to the imaohw 💀</h1>
+<h1 align="center">💀 Welcome to the ???????? 💀</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Security+Researcher+%7C+DFIR+%7C+OSINT+%7C+Exploit+Hunter" alt="Typing SVG" />
 </p>
@@ -6,52 +6,61 @@
 ---
 
 ### 🕶️ About Me
-- 🧑‍💻 Cybersecurity Analyst | Threat Hunter  
-- 🐚 Passionate about DFIR, OSINT, and Exploit Analysis  
-- ⚔️ Active on TryHackMe, HackTheBox, and private labs  
-- 🛡️ Experienced in real-world attack simulation & APT hunting
+- 👨‍💻 Cybersecurity Analyst & Threat Hunter  
+- 🕵️ Deep interest in DFIR, OSINT, Red Team Ops  
+- 💣 Enjoys hands-on labs like TryHackMe & HackTheBox  
+- ⚙️ Real-world experience in APT emulation, exploit analysis
 
 ---
 
-### 🔐 Tech Stack & Tools
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux)
-![Kali Linux](https://img.shields.io/badge/Kali-black?style=flat-square&logo=kalilinux)
-![Metasploit](https://img.shields.io/badge/Metasploit-5000B0?style=flat-square&logo=metasploit)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark)
-![SQLMap](https://img.shields.io/badge/SQLMap-FCC624?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash)
-![OSINT](https://img.shields.io/badge/OSINT-%23121011?style=flat-square)
+### 🧰 Tools of the Trade
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-005678?style=flat&logo=kalilinux)
+![Metasploit](https://img.shields.io/badge/Metasploit-5e4bb2?style=flat&logo=metasploit)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark)
+![SQLMap](https://img.shields.io/badge/SQLMap-yellow?style=flat)
+![Python](https://img.shields.io/badge/Python-2b5b84?style=flat&logo=python)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash)
+![OSINT](https://img.shields.io/badge/OSINT-black?style=flat)
+![Hydra](https://img.shields.io/badge/Hydra-grey?style=flat)
+![Gobuster](https://img.shields.io/badge/Gobuster-darkgreen?style=flat)
+![BurpSuite](https://img.shields.io/badge/Burp_Suite-orange?style=flat&logo=burpsuite)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat&logo=nmap)
+![Dirsearch](https://img.shields.io/badge/Dirsearch-555555?style=flat)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware)
 
 ---
 
-### 🧰 Currently Exploring
-- 🕵️‍♂️ Advanced OSINT (Shodan, Maltego, Recon-ng)
-- 🔍 Memory Forensics & Live Incident Response  
-- 📡 Red Team TTPs & MITRE ATT&CK Mapping  
+### 🧪 Currently Exploring
+- 🔍 Threat Intelligence Automation (IOC/OSINT correlation)
+- 🛠️ Memory Forensics with Volatility & Rekall  
+- 🗺️ Red Team tactics & Purple Team integrations
 
 ---
 
-### ⚔️ TryHackMe Stats
-<img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png" alt="TryHackMe Badge" />
+### 🏴‍☠️ TryHackMe & HackTheBox
+
+#### TryHackMe
+<img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png" alt="TryHackMe Stats" height="150px"/>
+
+#### Hack The Box  
+<img src="https://academy.hackthebox.com/achievement/badge/9817c5cc-090c-11ef-b18d-bea50ffe6cb4" alt="Hack The Box" height="150px"/>
 
 ---
 
-### 📫 Contact Me
-- ✉️ Email: yourmail@example.com  
-- 🔗 Blog: [https://yourblog.tistory.com](https://yourblog.tistory.com)
+### 📜 Certifications
+<!-- Add badges from Credly or manual links if available -->
+<img src="https://img.shields.io/badge/Certificate-THM_RedTeam-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Certificate-HTB_Pentester-green?style=flat-square" />
+
+---
+
+### 📫 Contact
+- 📧 Email: anfvktm12@gmail.com
+- 🌐 Blog: [https://yourblog.tistory.com](https://yourblog.tistory.com)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=dark&hide=prs" />
 </p>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
