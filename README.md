@@ -1,4 +1,6 @@
-![Image](https://github.com/user-attachments/assets/c4a5b582-7f70-4a9e-9851-e8a47334fc60)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c4a5b582-7f70-4a9e-9851-e8a47334fc60" alt="Image" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
