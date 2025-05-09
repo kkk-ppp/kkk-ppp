@@ -65,16 +65,8 @@
 
 ---
 
-### 📜 Certifications
-<!-- Add badges from Credly or manual links if available -->
-<img src="https://img.shields.io/badge/Certificate-THM_RedTeam-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Certificate-HTB_Pentester-green?style=flat-square" />
-
----
-
 ### 📫 Contact
 - 📧 Email: anfvktm12@gmail.com
-- 🌐 Blog: [https://yourblog.tistory.com](https://yourblog.tistory.com)
 
 ---
 
