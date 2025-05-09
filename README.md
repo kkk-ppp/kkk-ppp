@@ -25,13 +25,7 @@
 ![Python](https://img.shields.io/badge/Python-2b5b84?style=flat&logo=python)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash)
 ![OSINT](https://img.shields.io/badge/OSINT-black?style=flat)
-
-![Hydra](https://img.shields.io/badge/Hydra-grey?style=flat)
-![Gobuster](https://img.shields.io/badge/Gobuster-darkgreen?style=flat)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=flat&logo=burpsuite)
-![Nmap]()
-![Dirsearch](https://img.shields.io/badge/Dirsearch-555555?style=flat)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware)
 
 ---
 
