@@ -1,9 +1,9 @@
 <h1 align="center">💀 Welcome to the ???????? 💀</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=%24+????????+%3A+Cyber+Threat+Analyst;OSINT+%26+Malware+Researcher;Exploit+Hunter+%7C+CTI+Specialist;TryHackMe+%7C+HackTheBox+Active+User" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&pause=1000&color=00FF00&background=000000&width=600&height=60&lines=Exploit+Hunter|OSINT+Analyst|CTI+Researcher)](https://git.io/typing-svg)
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&pause=1000&color=00FF00&background=000000&width=600&height=60&lines=Exploit+Hunter|OSINT+Analyst|CTI+Researcher)](https://git.io/typing-svg)
+
 ---
 
 ### 🕶️ About Me
