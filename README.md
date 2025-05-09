@@ -15,14 +15,19 @@
 
 ### 🧰 Tools of the Trade
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-005678?style=flat&logo=kalilinux)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-005678?style=flat&logo=kalilinux)
 ![Metasploit](https://img.shields.io/badge/Metasploit-5e4bb2?style=flat&logo=metasploit)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark)
 ![SQLMap](https://img.shields.io/badge/SQLMap-yellow?style=flat)
 ![Python](https://img.shields.io/badge/Python-2b5b84?style=flat&logo=python)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash)
 ![OSINT](https://img.shields.io/badge/OSINT-black?style=flat)
-![BurpSuite](https://img.shields.io/badge/Burp_Suite-orange?style=flat&logo=burpsuite)
+
+![Hydra](https://img.shields.io/badge/Hydra-grey?style=flat)
+![Gobuster](https://img.shields.io/badge/Gobuster-darkgreen?style=flat)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=flat&logo=burpsuite)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat&logo=nmap)
+![Dirsearch](https://img.shields.io/badge/Dirsearch-555555?style=flat)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware)
 
 ---
