@@ -1,6 +1,6 @@
 <h1 align="center">💀 Welcome to the ???????? 💀</h1>
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Hack&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=%24+??????????+%3A+Cyber+Threat+Analyst;Analysing+Malware+%7C+Tracking+Threat+Actors;OSINT+%26+DFIR+Enthusiast;Exploit+Hunting+%7C+CTI+Researcher;TryHackMe+%7C+HackTheBox+Active+User" alt="Hacker Typing SVG" />  
+ <img src="https://readme-typing-svg.demolab.com?font=Hack&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=%24+whoami+%3A+Cyber+Threat+Analyst;OSINT+%26+Malware+Researcher;Exploit+Hunter+%7C+CTI+Specialist;TryHackMe+%7C+HackTheBox+Active+User" alt="Typing SVG" />
 </p>
 
 ---
