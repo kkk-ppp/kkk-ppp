@@ -55,14 +55,21 @@
 <img src="https://assets.tryhackme.com/img/badges/introtosecurityengineering.svg" alt="TryHackMe Stats" height="70px"/>
 </p>
 
-#### Hack The Box  
-<img src="https://academy.hackthebox.com/storage/badges/philomath.png" alt="Hack The Box" height="70px"/>
-<img src="https://academy.hackthebox.com/storage/badges/philomath.png" alt="Hack The Box" height="70px"/>
-<img src="https://academy.hackthebox.com/storage/badges/philomath.png" alt="Hack The Box" height="70px"/>
-<img src="https://academy.hackthebox.com/storage/badges/philomath.png" alt="Hack The Box" height="70px"/>
-<img src="https://academy.hackthebox.com/storage/badges/philomath.png" alt="Hack The Box" height="70px"/>
-<img src="https://academy.hackthebox.com/storage/badges/philomath.png" alt="Hack The Box" height="70px"/>
-
+#### Hack The Box
+<p align="center">
+<img src="https://academy.hackthebox.com/storage/badges/19bee749eaa26dce0829ad89ab2b2678/logo.png" alt="Hack The Box" height="70px"/>
+<img src="https://academy.hackthebox.com/storage/badges/first-things-first.png" alt="Hack The Box" height="70px"/>
+<img src="https://academy.hackthebox.com/storage/badges/60fc416b5eec425a6451aeb1e50d14e4/logo.png" alt="Hack The Box" height="70px"/>
+<img src="https://academy.hackthebox.com/storage/badges/8917b28cb5966d2cd835c151ed79e26b/logo.png" alt="Hack The Box" height="70px"/>
+<img src="https://academy.hackthebox.com/storage/badges/arachnoid.png" alt="Hack The Box" height="70px"/>
+<img src="https://academy.hackthebox.com/storage/badges/the-eye-that-sees-all.png" alt="Hack The Box" height="70px"/>
+<img src="https://academy.hackthebox.com/storage/badges/hacking-in-the-wild.png" alt="Hack The Box" height="70px"/>
+<img src="https://academy.hackthebox.com/storage/badges/you-know-my-methods.png" alt="Hack The Box" height="70px"/>
+<img src="https://academy.hackthebox.com/storage/badges/drop-your-weapon.png" alt="Hack The Box" height="70px"/>
+<img src="https://academy.hackthebox.com/storage/badges/lurk-in-the-packets.png" alt="Hack The Box" height="70px"/>
+<img src="https://academy.hackthebox.com/storage/badges/the-eye-that-sees-all.png" alt="Hack The Box" height="70px"/>
+<img src="https://academy.hackthebox.com/storage/badges/the-eye-that-sees-all.png" alt="Hack The Box" height="70px"/>  
+</p>
 ---
 
 ### 📫 Contact
