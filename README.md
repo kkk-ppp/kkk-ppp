@@ -1,20 +1,6 @@
 <h1 align="center">💀 Welcome to the ???????? 💀</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=%24+whoami+%3A+Cyber+Threat+Analyst;OSINT+%26+Malware+Researcher;Exploit+Hunter+%7C+CTI+Specialist;TryHackMe+%7C+HackTheBox+Active+User" alt="Typing SVG" />
-</p>
-
-<!-- 칼리 리눅스 부팅 화면 흉내를 위한 배경색과 스타일 추가 -->
-<p align="center" style="background-color: black; color: green; font-family: 'Courier New', Courier, monospace; padding: 20px; border-radius: 10px;">
-  <strong>Welcome to Kali Linux...</strong><br><br>
-  <code>+ [ OK ] Booting Kali Linux...</code><br>
-  <code>+ [ OK ] Starting Threat Intelligence Engine...</code><br>
-  <code>+ [ OK ] Mounting Virtual Environment: /opt/research</code><br>
-  <code>+ [ OK ] Deploying OSINT scanners...</code><br>
-  <code>+ [ OK ] Connecting to Darknet Feeds...</code><br>
-  <code>+ [INFO] Tracking Threat Actors...</code><br>
-  <code>+ [INFO] Parsing CVEs...</code><br><br>
-  <code>+ [ OK ] Boot complete.</code><br>
-  <strong>Welcome, 김기표</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=%24+????????+%3A+Cyber+Threat+Analyst;OSINT+%26+Malware+Researcher;Exploit+Hunter+%7C+CTI+Specialist;TryHackMe+%7C+HackTheBox+Active+User" alt="Typing SVG" />
 </p>
 
 ---
