@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://cdn.pixabay.com/animation/2023/09/07/21/54/21-54-00-174_512.gif" alt="GIF" />
-</p>
+![Image Description](https://cdn.pixabay.com/animation/2023/09/07/21/54/21-54-00-174_512.gif)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
