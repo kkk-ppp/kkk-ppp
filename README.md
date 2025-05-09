@@ -48,7 +48,6 @@
 <img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" alt="TryHackMe Stats" height="70px"/>
 <img src="https://assets.tryhackme.com/img/badges/introtosecurityengineering.svg" alt="TryHackMe Stats" height="70px"/>
 <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.svg" alt="TryHackMe Stats" height="70px"/>
-<img src="https://assets.tryhackme.com/img/badges/introtosecurityengineering.svg" alt="TryHackMe Stats" height="70px"/>
 <img src="https://assets.tryhackme.com/img/badges/burpsuite.svg" alt="TryHackMe Stats" height="70px"/>
 <img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" alt="TryHackMe Stats" height="70px"/>  
 <img src="https://assets.tryhackme.com/img/badges/metasploit.svg" alt="TryHackMe Stats" height="70px"/> 
@@ -91,7 +90,6 @@
   <img src="https://academy.hackthebox.com/storage/badges/32da68ec9873b8a5c48b0193bfbcf38b/logo.png" width="70" />
   <img src="https://academy.hackthebox.com/storage/badges/19bee749eaa26dce0829ad89ab2b2678/logo.png" width="70" />
   <img src="https://academy.hackthebox.com/storage/badges/the-hunt-is-on.png" width="70" />
-  <img src="https://academy.hackthebox.com/storage/badges/first-things-first.png" width="70" />
 </p>
 
 ---
