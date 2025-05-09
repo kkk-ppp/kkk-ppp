@@ -1,4 +1,3 @@
-<h1 align="center">💀 Welcome to the ???????? 💀</h1>
 <p align="center">
   <img src="https://cdn.pixabay.com/animation/2023/09/07/21/54/21-54-00-174_512.gif" alt="GIF" />
 </p>
