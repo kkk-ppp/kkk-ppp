@@ -1,6 +1,6 @@
 <h1 align="center">💀 Welcome to the ???????? 💀</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/GLA2yXvY7IW72/giphy.gif" alt="Matrix Code Rain" width="600" />
+  <img src="C:\Users\kkp\Downloads\matrix-17973_256.gif" alt="Matrix Code Rain" width="600" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&pause=1000&color=00FF00&background=000000&width=600&height=60&lines=Exploit+Hunter|OSINT+Analyst|CTI+Researcher)](https://git.io/typing-svg)
