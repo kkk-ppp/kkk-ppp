@@ -1,4 +1,4 @@
-<h1 align="center">💀 Welcome to the Dark Terminal 💀</h1>
+<h1 align="center">💀 Welcome to the imaohw 💀</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Security+Researcher+%7C+DFIR+%7C+OSINT+%7C+Exploit+Hunter" alt="Typing SVG" />
 </p>
