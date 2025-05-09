@@ -3,6 +3,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Hack&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=%24+????????+%3A+Cyber+Threat+Analyst;OSINT+%26+Malware+Researcher;Exploit+Hunter+%7C+CTI+Specialist;TryHackMe+%7C+HackTheBox+Active+User" alt="Typing SVG" />
 </p>
 
+<pre style="background-color:black; color:#00FF00; font-family: monospace; padding: 10px;">
+[    0.000000] Initializing cgroup subsys cpuset
+[    0.003059] Linux version 5.10.0-kali-amd64 (#1 SMP Debian 5.10.0)
+[    0.005000] Command line: BOOT_IMAGE=/boot/vmlinuz-5.10.0 root=UUID=abcd ro quiet splash
+[    2.345678] [  OK  ] Started Network Service.
+[    5.678901] [ERROR] Exploit attempt detected.
+</pre>
 ---
 
 ### 🕶️ About Me
