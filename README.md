@@ -45,7 +45,7 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png" alt="TryHackMe Stats" height="150px"/>
 
 #### Hack The Box  
-<img src="https://academy.hackthebox.com/achievement/badge/9817c5cc-090c-11ef-b18d-bea50ffe6cb4" alt="Hack The Box" height="150px"/>
+<img src="https://academy.hackthebox.com/storage/badges/philomath.png" alt="Hack The Box" height="150px"/>
 
 ---
 
