@@ -44,7 +44,7 @@
 
 ### 🏴‍☠️ TryHackMe & HackTheBox
 
-#### TryHackMe Badge
+#### TryHackMe Badges
 <p align="center">
 <img src="https://assets.tryhackme.com/img/badges/linux.svg" alt="TryHackMe Stats" height="70px"/>
 <img src="https://assets.tryhackme.com/img/badges/securityawareness.svg" alt="TryHackMe Stats" height="70px"/>
@@ -60,21 +60,60 @@
 <img src="https://assets.tryhackme.com/img/badges/careerready.svg" alt="TryHackMe Stats" height="70px"/>  
 </p>
 
-#### Hack The Box Badge
+#### Hack The Box Badges
 <p align="center">
-<img src="https://academy.hackthebox.com/storage/badges/19bee749eaa26dce0829ad89ab2b2678/logo.png" alt="Hack The Box" height="70px"/>
-<img src="https://academy.hackthebox.com/storage/badges/first-things-first.png" alt="Hack The Box" height="70px"/>
-<img src="https://academy.hackthebox.com/storage/badges/60fc416b5eec425a6451aeb1e50d14e4/logo.png" alt="Hack The Box" height="70px"/>
-<img src="https://academy.hackthebox.com/storage/badges/8917b28cb5966d2cd835c151ed79e26b/logo.png" alt="Hack The Box" height="70px"/>
-<img src="https://academy.hackthebox.com/storage/badges/arachnoid.png" alt="Hack The Box" height="70px"/>
-<img src="https://academy.hackthebox.com/storage/badges/the-eye-that-sees-all.png" alt="Hack The Box" height="70px"/>
-<img src="https://academy.hackthebox.com/storage/badges/hacking-in-the-wild.png" alt="Hack The Box" height="70px"/>
-<img src="https://academy.hackthebox.com/storage/badges/you-know-my-methods.png" alt="Hack The Box" height="70px"/>
-<img src="https://academy.hackthebox.com/storage/badges/drop-your-weapon.png" alt="Hack The Box" height="70px"/>
-<img src="https://academy.hackthebox.com/storage/badges/lurk-in-the-packets.png" alt="Hack The Box" height="70px"/>
-<img src="https://academy.hackthebox.com/storage/badges/the-eye-that-sees-all.png" alt="Hack The Box" height="70px"/>
-<img src="https://academy.hackthebox.com/storage/badges/the-eye-that-sees-all.png" alt="Hack The Box" height="70px"/>  
+  <img src="https://academy.hackthebox.com/storage/badges/philomath.png" width="100" />
+  <img src="https://academy.hackthebox.com/storage/badges/academician.png" width="100" />
+  <img src="https://academy.hackthebox.com/storage/badges/hacking-in-the-wild.png" width="100" />
+  <img src="https://academy.hackthebox.com/storage/badges/our-favorite-seabird.png" width="100" />
 </p>
+<p align="center">
+  <img src="https://academy.hackthebox.com/storage/badges/the-eye-that-sees-all.png" width="100" />
+  <img src="https://academy.hackthebox.com/storage/badges/every-road-leads-back-to-root.png" width="100" />
+  <img src="https://academy.hackthebox.com/storage/badges/airborne-delivery.png" width="100" />
+  <img src="https://academy.hackthebox.com/storage/badges/you-know-my-methods.png" width="100" />
+</p>
+<p align="center">
+  <img src="https://academy.hackthebox.com/storage/badges/drop-your-weapon.png" width="100" />
+  <img src="https://academy.hackthebox.com/storage/badges/everything-is-connected.png" width="100" />
+  <img src="https://academy.hackthebox.com/storage/badges/your-request-is-my-demand.png" width="100" />
+  <img src="https://academy.hackthebox.com/storage/badges/combine-the-modules.png" width="100" />
+</p>
+<p align="center">
+  <img src="https://academy.hackthebox.com/storage/badges/fuzzing-is-power.png" width="100" />
+  <img src="https://academy.hackthebox.com/storage/badges/your-white-belt-training-begins.png" width="100" />
+  <img src="https://academy.hackthebox.com/storage/badges/your-first-battle.png" width="100" />
+  <img src="https://academy.hackthebox.com/storage/badges/lurk-in-the-packets.png" width="100" />
+</p>
+<p align="center">
+  <img src="https://academy.hackthebox.com/storage/badges/start-building-your-arsenal.png" width="100" />
+  <img src="https://academy.hackthebox.com/storage/badges/tactical.png" width="100" />
+  <img src="https://academy.hackthebox.com/storage/badges/included-in-every-report.png" width="100" />
+  <img src="https://academy.hackthebox.com/storage/badges/light-in-the-dark.png" width="100" />
+</p>
+<p align="center">
+  <img src="https://academy.hackthebox.com/storage/badges/you-need-to-trace-before-you-can-hung.png" width="100" />
+  <img src="https://academy.hackthebox.com/storage/badges/arachnoid.png" width="100" />
+  <img src="https://academy.hackthebox.com/storage/badges/information-is-not-knowledge-or-is-it.png" width="100" />
+  <img src="https://academy.hackthebox.com/storage/badges/grab-the-keys-and-move-laterally.png" width="100" />
+</p>
+<p align="center">
+  <img src="https://academy.hackthebox.com/storage/badges/an-apple-a-day.png" width="100" />
+  <img src="https://academy.hackthebox.com/storage/badges/hunt-the-bug.png" width="100" />
+  <img src="https://academy.hackthebox.com/storage/badges/4a11a1a1d810967184694662d629de2d/logo.png" width="100" />
+  <img src="https://academy.hackthebox.com/storage/badges/a6fe6c6e23b919c7a41fa3ec144d3a82/logo.png" width="100" />
+</p>
+<p align="center">
+  <img src="https://academy.hackthebox.com/storage/badges/372e0f41bced75ab64cfe1cbb76de4d0/logo.png" width="100" />
+  <img src="https://academy.hackthebox.com/storage/badges/8917b28cb5966d2cd835c151ed79e26b/logo.png" width="100" />
+  <img src="https://academy.hackthebox.com/storage/badges/32da68ec9873b8a5c48b0193bfbcf38b/logo.png" width="100" />
+  <img src="https://academy.hackthebox.com/storage/badges/19bee749eaa26dce0829ad89ab2b2678/logo.png" width="100" />
+</p>
+<p align="center">
+  <img src="https://academy.hackthebox.com/storage/badges/the-hunt-is-on.png" width="100" />
+  <img src="https://academy.hackthebox.com/storage/badges/first-things-first.png" width="100" />
+</p>
+
 ---
 
 ### 📫 Contact
