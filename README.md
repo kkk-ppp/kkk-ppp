@@ -1,4 +1,4 @@
-![Image Description](https://cdn.pixabay.com/animation/2023/09/07/21/54/21-54-00-174_512.gif)
+![Image](https://github.com/user-attachments/assets/c4a5b582-7f70-4a9e-9851-e8a47334fc60)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
