@@ -44,18 +44,23 @@
 
 ### 🏴‍☠️ TryHackMe & HackTheBox
 
-#### TryHackMe
+#### TryHackMe Badge
 <p align="center">
-<img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" alt="TryHackMe Stats" height="70px"/>
+<img src="https://assets.tryhackme.com/img/badges/linux.svg" alt="TryHackMe Stats" height="70px"/>
 <img src="https://assets.tryhackme.com/img/badges/securityawareness.svg" alt="TryHackMe Stats" height="70px"/>
-<img src="https://assets.tryhackme.com/img/badges/burpsuite.svg" alt="TryHackMe Stats" height="70px"/>
-<img src="https://assets.tryhackme.com/img/badges/networkfundamentals.svg" alt="TryHackMe Stats" height="70px"/>
-<img src="https://assets.tryhackme.com/img/badges/metasploit.svg" alt="TryHackMe Stats" height="70px"/>
-<img src="https://assets.tryhackme.com/img/badges/introtooffensivesecurity.svg" alt="TryHackMe Stats" height="70px"/>
+<img src="https://assets.tryhackme.com/img/badges/webbed.svg" alt="TryHackMe Stats" height="70px"/>
+<img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" alt="TryHackMe Stats" height="70px"/>
 <img src="https://assets.tryhackme.com/img/badges/introtosecurityengineering.svg" alt="TryHackMe Stats" height="70px"/>
+<img src="https://assets.tryhackme.com/img/badges/networkfundamentals.svg" alt="TryHackMe Stats" height="70px"/>
+<img src="https://assets.tryhackme.com/img/badges/introtosecurityengineering.svg" alt="TryHackMe Stats" height="70px"/>
+<img src="https://assets.tryhackme.com/img/badges/burpsuite.svg" alt="TryHackMe Stats" height="70px"/>
+<img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" alt="TryHackMe Stats" height="70px"/>  
+<img src="https://assets.tryhackme.com/img/badges/metasploit.svg" alt="TryHackMe Stats" height="70px"/> 
+<img src="https://assets.tryhackme.com/img/badges/introtooffensivesecurity.svg" alt="TryHackMe Stats" height="70px"/>
+<img src="https://assets.tryhackme.com/img/badges/careerready.svg" alt="TryHackMe Stats" height="70px"/>  
 </p>
 
-#### Hack The Box
+#### Hack The Box Badge
 <p align="center">
 <img src="https://academy.hackthebox.com/storage/badges/19bee749eaa26dce0829ad89ab2b2678/logo.png" alt="Hack The Box" height="70px"/>
 <img src="https://academy.hackthebox.com/storage/badges/first-things-first.png" alt="Hack The Box" height="70px"/>
