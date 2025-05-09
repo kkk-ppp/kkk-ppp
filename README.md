@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4c2a0aaf-fba9-494d-b4e1-41a18211697d)<h1 align="center">💀 Welcome to the ???????? 💀</h1>
+<h1 align="center">💀 Welcome to the ???????? 💀</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Hack&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=%24+????????+%3A+Cyber+Threat+Analyst;OSINT+%26+Malware+Researcher;Exploit+Hunter+%7C+CTI+Specialist;TryHackMe+%7C+HackTheBox+Active+User" alt="Typing SVG" />
 </p>
@@ -26,7 +26,7 @@
 ![Hydra](https://img.shields.io/badge/Hydra-grey?style=flat)
 ![Gobuster](https://img.shields.io/badge/Gobuster-darkgreen?style=flat)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=flat&logo=burpsuite)
-![Nmap](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmtkCI0AoVvgVrL4oqdSNjF-4rWnDy07KzyA&s?style=flat)
+![Nmap]()
 ![Dirsearch](https://img.shields.io/badge/Dirsearch-555555?style=flat)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware)
 
